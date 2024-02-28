@@ -2,9 +2,11 @@
 
 Advanced search Vuetify components supporting Lucene syntax. Currently not compiled, and only usable in TypeScript projects.
 
+Internal use component, not recommended for public use.
+
 ## Installing
 
-`npm install git@git.idiotikon.ch:global/vuetify-lucene-search.git#<VERSION>`
+TODO...
 
 Make sure every person and machine that needs to run `npm install` has read access to this repository.
 
