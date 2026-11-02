@@ -6,7 +6,11 @@ Internal use component, not recommended for public use.
 
 ## Installing
 
-TODO...
+```
+npm install github:idiotikon-ch/vuetify-lucene-search#v1.2.0
+```
+
+`vue` and `vuetify` are peer dependencies (Vuetify 3.4.9+ or 4.x); the host app provides them.
 
 Make sure every person and machine that needs to run `npm install` has read access to this repository.
 
